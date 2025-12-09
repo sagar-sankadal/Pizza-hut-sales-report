@@ -1,21 +1,25 @@
 # Pizza-hut-sales-report
 In this project  i solved these  problems 
 
-#basic problems
-1.retrieve the total number of  orders placed                                                                                                   
-2.calculate the total revenue generatedfrom th pizzas sales
-3.identify the  highest-priced pizza
-4.identify the most common pizza size ordered 
-5.list the top 5 most ordered pizzas type along with their quantities
+# Pizza Hut Sales Report 🍕
 
-#intermediate problems
-6.join  the necessary tables to find the total quantity of each pizza category order
-7.deteremine the distribution of the order by hour of the day
-8.join the relevant tables to find the category wise distribution  of pizzas.
-9.group the orders by date and calculate the average  number of pizzas ordered per day 
-10.determine the top 3 most ordered  pizza types based on the revenue 
+In this project, I solved the following problems:
 
-#advanced  problems
-11.calculate the percentage contributiobn of each pizza type of total revenue
-12.analyze the cumulative revenue generated over time
-13.determine the top 3 most ordered pizzas based on the revewnue of each pizza category
+## ✅ Basic Problems
+1. Retrieve the total number of orders placed  
+2. Calculate the total revenue generated from pizza sales  
+3. Identify the highest-priced pizza  
+4. Identify the most common pizza size ordered  
+5. List the top 5 most ordered pizza types along with their quantities  
+
+## ✅ Intermediate Problems
+6. Join the necessary tables to find the total quantity of each pizza ordered  
+7. Determine the distribution of orders by hour of the day  
+8. Join relevant tables to find the category-wise distribution of pizzas  
+9. Group orders by date and calculate the average number of pizzas ordered per day  
+10. Determine the top 3 most ordered pizza types based on revenue  
+
+## ✅ Advanced Problems
+11. Calculate the percentage contribution of each pizza type to total revenue  
+12. Analyze the cumulative revenue generated over time  
+13. Determine the top 3 most ordered pizzas based on revenue for each pizza category  
