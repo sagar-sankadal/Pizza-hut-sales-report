@@ -1,8 +1,4 @@
-# Pizza-hut-sales-report
-In this project  i solved these  problems 
-
 # Pizza Hut Sales Report 🍕
-
 In this project, I solved the following problems:
 
 ## ✅ Basic Problems
